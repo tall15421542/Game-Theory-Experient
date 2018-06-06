@@ -1,0 +1,66 @@
+.histogram {
+  text-align: center;
+  width: 100%;
+}
+.incomplete{
+    margin-left: 20%;
+    margin-top: 10px;
+    height: 20px;
+}
+.history{
+    margin-left: 20%;
+    margin-top: 10px;
+    height: 20px;
+}
+
+.historyControl {
+    width: 40%;
+}
+
+.historyInput {
+    position: relative;
+    bottom: 29px;
+    left: 280px;
+}
+
+.second{
+    width: 100%;
+    height: 260px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.pie{
+    width: 20%;
+    margin-left: 16%;
+    margin-bottom: 10px;
+}
+
+.progress {
+    position: relative;
+    bottom: 300px;
+    left: 535px;
+    width: 45%;
+}
+
+.progressName {
+    text-align: left;
+    padding-left: 10px;
+    margin: 6px;
+    font-size: 15px;
+}
+
+.tableBlock{
+    width: 100%;
+    margin-top: 30px;
+    margin-left: 20%;
+}
+
+.table{
+    width: 63%;
+    height: 400px;
+    font-size: 20px;
+    font-color: gray;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

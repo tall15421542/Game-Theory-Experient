@@ -1,0 +1,24 @@
+{
+  "name": "front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@data-ui/histogram": "0.0.57",
+    "@data-ui/radial-chart": "0.0.54",
+    "@vx/legend": "0.0.161",
+    "d3-array": "^1.2.1",
+    "lodash.throttle": "^4.1.1",
+    "rc-progress": "^2.2.5",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4",
+    "react-throttle": "^0.3.0",
+    "socket.io-client": "^2.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
